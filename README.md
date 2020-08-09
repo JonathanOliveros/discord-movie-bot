@@ -5,7 +5,7 @@ A Discord bot that has 3 functions:
 - (!top) shows top 5 movies within that genre
 - (!movie) returns details of specified movie
 ## What I Learned
-- How to use the BeautifulSoup module to web scrape so that I can get top movies off of specified website
+- How to use the BeautifulSoup module to web scrape to retrieve top movies off of specified website
 - How to call a website API which returns data in JSON format
 - Formatting JSON for better readability
 ## Results
